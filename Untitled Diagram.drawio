@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T02:13:27.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" version="20.0.1" etag="3FYo_txifxz2QypYxIpZ" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T03:06:16.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="mXxbVSEMNl-hoKn1livY" version="20.0.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="3129" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="180天成交货源、卸货地poi、司机驻留点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="xDnro3y5UuZ1i3o13mYD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;br&gt;货主填写地址规则判定" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="详细五级地址" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-4" value="非详细五级地址" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDnro3y5UuZ1i3o13mYD-10" target="xDnro3y5UuZ1i3o13mYD-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-10" value="驻留点空间过滤：&lt;br&gt;详细地址：2km内&lt;br&gt;非详细地址:4km内" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="280" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDnro3y5UuZ1i3o13mYD-4" target="xDnro3y5UuZ1i3o13mYD-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="300" as="sourcePoint" />
+            <mxPoint x="190" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="xDnro3y5UuZ1i3o13mYD-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="sourcePoint" />
+            <mxPoint x="470" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-19" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.5%3BexitY%3D1%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2260%22%20y%3D%22230%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22160%22%20y%3D%22320%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-71" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDnro3y5UuZ1i3o13mYD-46" target="xDnro3y5UuZ1i3o13mYD-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-46" value="司机到货时间估计arrive time（基于公路距离）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-51" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDnro3y5UuZ1i3o13mYD-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDnro3y5UuZ1i3o13mYD-52" target="xDnro3y5UuZ1i3o13mYD-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDnro3y5UuZ1i3o13mYD-52" target="xDnro3y5UuZ1i3o13mYD-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-52" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;arrive_time &amp;lt;finishi time&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="462.5" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-55" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 6px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;arrive_time_final&lt;/span&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;br&gt;=&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 6px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;finishi time&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="477.5" width="140" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-56" value="&lt;span style=&quot;font-size: 6px; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;arrive_time_final&lt;/span&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;=&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 6px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;arrive_time&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-66" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDnro3y5UuZ1i3o13mYD-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222.5" y="672.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-59" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;驻留点时间过滤：&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;create_time&amp;lt;time(驻留点)&amp;lt;&lt;/span&gt;&lt;span style=&quot;font-size: 6px; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;arrive_time_final&lt;/span&gt;&lt;span style=&quot;font-size: 6px; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="155" y="562.5" width="135" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDnro3y5UuZ1i3o13mYD-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="520" as="sourcePoint" />
+            <mxPoint x="190" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xDnro3y5UuZ1i3o13mYD-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="520" as="sourcePoint" />
+            <mxPoint x="470" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-63" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="527.5" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-64" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="527.5" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-68" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xDnro3y5UuZ1i3o13mYD-65" target="xDnro3y5UuZ1i3o13mYD-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-65" value="核心密度点识别算法" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-67" value="真实卸货地poi" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="162.5" y="780" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-72" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&lt;b&gt;arrive_time ：&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;估计到货时间&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;arrive_time_final:&amp;nbsp; &amp;nbsp; &amp;nbsp; 最终估计的到货时间&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;create_time:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 订单创建时间&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;finish_time_final:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 订单完成时间&lt;/div&gt;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="465" y="245" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-73" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="190" width="20" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-74" value="空间过滤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-195" y="275" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-75" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="380" width="20" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xDnro3y5UuZ1i3o13mYD-77" value="时间过滤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-195" y="507.5" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
